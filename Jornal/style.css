@@ -1,1 +1,8 @@
 @charset "UTF-8";
+#ParadaFoto {
+width: 50%;
+display: flex;
+}
+body{
+    
+}
